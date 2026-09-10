@@ -1,0 +1,24 @@
+{
+  "name": "recuperacaonode",
+  "version": "1.0.0",
+  "description": "recuperacao",
+  "homepage": "https://github.com/geloquentem-lgtm/recuperacaoNode#readme",
+  "bugs": {
+    "url": "https://github.com/geloquentem-lgtm/recuperacaoNode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geloquentem-lgtm/recuperacaoNode.git"
+  },
+  "license": "ISC",
+  "author": "matheus",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
